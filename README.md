@@ -4,7 +4,7 @@ Este projeto foi desenvolvido como parte do processo seletivo de funcionários d
 
 # Código Fonte
 
-O código fonte principal do projeto pode ser encontrado no arquivo `script.vue`. Você pode acessá-lo através do seguinte link: [https://github.com/j0aod3v/siteuenp/blob/main/script.vue](https://github.com/j0aod3v/siteuenp/blob/main/script.vue)
+O código fonte principal do projeto pode ser encontrado no arquivo `script.vue`. Você pode acessá-lo através do seguinte link: [https://github.com/J0aoD3v/siteuenp/blob/gh-pages/script.vue](https://github.com/J0aoD3v/siteuenp/blob/gh-pages/script.vue)
 
 # Acesso ao Site
 
