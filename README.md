@@ -2,6 +2,10 @@
 
 Este projeto foi desenvolvido como parte do processo seletivo de funcionários da Setup Jr 2024. O projeto é um site estático criado com Vue.js que serve como uma landing page com o tema "Bem-vindo à UENP".
 
+# Acesso ao Site
+
+Você pode acessar o site através do seguinte link: [https://j0aod3v.github.io/siteuenp](https://j0aod3v.github.io/siteuenp)
+
 ## Tecnologias Utilizadas
 
 - Vue.js
